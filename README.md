@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Théo VIRBEL</h1>
-<h3 align="center">Passion for Software Development</h3>
+<h1 align="center">Hello 👋, I'm Théo VIRBEL</h1>
+<h3 align="center">Passion for computer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theo-virbel&label=Profile%20views&color=0e75b6&style=flat" alt="theo-virbel" /> </p>
 
